@@ -1,0 +1,22 @@
+{
+  "name": "api-com-nodejs-canal-maransatto",
+  "version": "1.0.0",
+  "description": "Este projeto foi criado seguindo a série de vídeos tutoriais do canal Maransato",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohspires/api-com-nodejs-canal-maransatto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohspires/api-com-nodejs-canal-maransatto/issues"
+  },
+  "homepage": "https://github.com/pedrohspires/api-com-nodejs-canal-maransatto#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
